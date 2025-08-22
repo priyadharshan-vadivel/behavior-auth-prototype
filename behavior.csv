@@ -1,0 +1,11 @@
+user_id,keystroke_latency_mean,swipe_speed_mean,login_hour,device_change_flag,label
+U1,210,950,14,0,Genuine
+U1,220,970,15,0,Genuine
+U1,205,940,13,0,Genuine
+U1,230,960,16,0,Genuine
+U1,215,930,14,0,Genuine
+U1,780,450,2,1,Fraud
+U1,800,400,3,1,Fraud
+U1,760,480,1,1,Fraud
+U1,790,420,23,1,Fraud
+U1,770,460,4,1,Fraud
